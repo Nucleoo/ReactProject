@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# TechStack
+React, HTML, CSS, JavaScript
+
+# Deployed Link
+https://nucleoo.github.io/ReactProject/
+
+### Note
+!This is a practice project!
+
+# Instructions for installing the project
 
 ### `npm start`
 Runs the app in the development mode.\
@@ -18,6 +27,4 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
-
-### Site is Published at : https://nucleoo.github.io/ReactProject/
 
